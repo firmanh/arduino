@@ -1,0 +1,23 @@
+.profile{
+    margin-left:10px;
+    margin-right:10px;
+}
+h4{
+    color:rgb(33,150,243);
+}
+h6{
+    color:#808A92;
+    margin-bottom: 20px;
+
+}
+
+.profile_icon1,.profile_icon2,.profile_icon3{
+    width:50%;
+    height:50%;
+    margin:0 auto;
+
+}
+hr{
+    margin-top:20px;
+    margin-bottom: 20px;
+}

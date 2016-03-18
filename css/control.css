@@ -1,0 +1,82 @@
+body{
+	margin: 0px;
+}
+a img{
+  border: 0px;
+}
+.wow:first-child {
+  visibility: hidden;
+}
+#demo-menu-lower-left {
+  margin-left: 40%;
+}
+#ok {
+    position: fixed;
+    display: block;
+    right: 0;
+    bottom: 0;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    z-index: 900;
+    color: #fff;
+  }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.green { color:green; }
+.material-icons.red { color:red; }
+ul,li,p{
+	list-style: none;
+	float: left;
+	margin-left: -15px;
+	display: inline;
+}
+td{
+  width: 10px;
+}
+.mdl-cell {
+  box-sizing: border-box;
+
+  height: 200px;
+  padding-left: 8px;
+  padding-top: 4px;
+  color: white;
+}
+.mdl-grid:first-of-type .mdl-cell {
+  height: 50px;
+}
+.header{
+  width:70%;
+  height:70%;
+  margin-top: 50px;
+}
+.mdl-grid{
+  margin-top: 20px
+}
+.icon {
+    position:relative;
+    top:0px;
+    width:50%;
+    height:50%;
+}
+.icon:hover{
+    position:relative;
+    top:5px;    
+}
+.switch{
+  margin-top:20px;
+}
+.list{
+  margin-top:10px;
+}
+.ripplelink{
+
+  overflow:hidden;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  z-index:0;
+}
+.about{
+  width:20px;
+  height:20px;
+}

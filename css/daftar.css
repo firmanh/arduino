@@ -1,0 +1,42 @@
+body{
+	margin: 0px;
+}
+a img{
+  border: 0px;
+}
+.daftar{
+	margin-top: -30px;
+}
+.material-icons, .md-light{
+	color:#fff;
+}
+.header{
+	width:70%;
+	height:70%;
+	margin-top: 50px;
+}
+.login{
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 20px!important;
+}
+.mdl-textfield,.mdl-js-textfield,.mdl-textfield--floating-label{
+	width: 100%;
+}
+.tombol{
+	font-size: 52px;
+	color: white;
+	width: 100%;
+	margin-top: 5px;
+	padding-top: 7px;
+	font-color:#fff; 
+}
+.mdl-button--accent.mdl-button--accent.mdl-button--raised, .mdl-button--accent.mdl-button--accent.mdl-button--fab{
+		color: #fff;
+}
+.mdl-textfield__input{
+	color: rgb(167, 167, 167);
+}
+h1,h2,h3,h4,h5{
+	color: grey;
+}

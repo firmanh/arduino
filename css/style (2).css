@@ -1,0 +1,40 @@
+body{
+	margin: 0px;
+}
+a img{
+  border: 0px;
+}
+.material-icons, .md-light{
+	color:#fff;
+}
+.header{
+	width:70%;
+	height:70%;
+	margin-top: 50px;
+}
+.login{
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 20px!important;
+}
+.mdl-textfield,.mdl-js-textfield,.mdl-textfield--floating-label{
+	width: 100%;
+}
+.mdl-button
+,.mdl-js-button
+,.mdl-button--raised
+,.mdl-js-ripple-effect
+,.mdl-button--accent{
+	font-size: 12px;
+	color: white;
+	width: 100%;
+	margin-top: 20px;
+	padding-top: 7px;
+	font-color:#fff; 
+}
+.mdl-button--accent.mdl-button--accent.mdl-button--raised, .mdl-button--accent.mdl-button--accent.mdl-button--fab{
+		color: #fff;
+}
+.mdl-textfield__input{
+	color: rgb(167, 167, 167);
+}
